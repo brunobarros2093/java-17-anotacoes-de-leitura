@@ -41,8 +41,6 @@ Embora este seja um projeto pessoal de estudos, contribuições são bem-vindas!
 
 ## 📧 Contato
 
-Se tiver dúvidas ou quiser trocar ideias sobre o conteúdo do livro, entre em contato comigo através do GitHub.
+Se tiver dúvidas ou quiser trocar ideias sobre o conteúdo do livro, entre em contato comigo através do GitHub e redes sociais.
 
----
 
-Com este README, você terá uma estrutura clara para documentar sua jornada de estudo, facilitando o acompanhamento do progresso e compartilhando seu aprendizado com a comunidade.
