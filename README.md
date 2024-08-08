@@ -4,7 +4,8 @@ Bem-vindo ao repositório do meu projeto de estudos sobre o livro *"Java Twelfth
 
 ## 🎯 Objetivo
 
-O objetivo deste projeto é concluir a leitura do livro *"Java Twelfth Edition"* até o início de dezembro de 2024, compreendendo e aplicando os conceitos fundamentais de Java. Pretendo compartilhar meus insights, aprendizados e dificuldades ao longo do caminho.
+O objetivo deste projeto é concluir a leitura do livro *"Java Twelfth Edition"* até o início de dezembro de 2024, compreendendo e aplicando os conceitos fundamentais de Java. Pretendo compartilhar meus insights, aprendizados e dificuldades ao longo do caminho.  E calar a boca do [@pedro](https://github.com/pedrohff) que duvidou.
+
 
 ## 🗓️ Plano de Leitura
 
