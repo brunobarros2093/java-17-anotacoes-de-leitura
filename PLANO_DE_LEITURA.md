@@ -1,4 +1,4 @@
-Objetivo: concluir o livro **"Java Twelfth Edition: The Complete API Reference**" até o início de dezembro
+Objetivo: concluir o livro **"Java Twelfth Edition: The Complete API Reference**" até o início de dezembro. E calar a boca do [@pedro](https://github.com/pedrohff) que duvidou.
 
 ### **Plano de Estudos Resumido**
 
